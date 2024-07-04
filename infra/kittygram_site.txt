@@ -1,0 +1,5 @@
+ IP: 158.160.68.93;
+ name_taski: https://practicum-taski.ddns.net/;
+ name_kittygram: https://practicum-infra.ddns.net/;
+ login: root;
+ password: root;
